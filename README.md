@@ -22,7 +22,9 @@ Os seguintes aspectos devem ser considerados:
 ## Layout desktop
 
 ![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/Login.png)
-
-
+![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/financeiro.png)
+![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/Sistema.png)
+![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/vendas.png)
+![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/usuario.png)
 
 
