@@ -18,3 +18,11 @@ Os seguintes aspectos devem ser considerados:
 - A venda deverá possuir os dados do cliente e todos os produtos adquiridos. Deve ser gerado um código único da venda, com a data da venda, o valor da venda, opções para pagamento (dinheiro/cartão), status de pagamento e status da venda; 
 - O atendente poderá excluir produtos da venda caso o cliente não queira mais adquiri lós. Apenas o supervisor da loja poderá excluir o produto da venda, devendo informar um usuário e senha válidos; 
 - O atendente poderá consultar os preços dos produtos caso o cliente solicite; A venda pode ser cancelada apenas pelo supervisor da loja, que deve informar usuário e senha válidos. No momento do cancelamento, o código da venda deve ser enviado para o sistema financeiro.
+
+## Layout desktop
+
+![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/Login.png)
+
+
+
+
