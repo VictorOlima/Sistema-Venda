@@ -29,9 +29,10 @@ Os seguintes aspectos devem ser considerados:
 
 ## Back end
 
-Python
-PySide6
-MySql
+- Python
+- Qtdesign
+- PySide6
+- MySql
 
 ## Implantação em produção
 
