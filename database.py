@@ -8,7 +8,6 @@ class DataBase:
         self.password = password
         self.database = database
         self.connection = None
-    
     def connect(self):
         try:
             self.connection = mysql.connector.connect(
