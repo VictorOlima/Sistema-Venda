@@ -22,9 +22,27 @@ Os seguintes aspectos devem ser considerados:
 ## Layout desktop
 
 ![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/Login.png)
-![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/financeiro.png)
-![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/Sistema.png)
 ![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/vendas.png)
 ![Layout desktop](https://github.com/VictorOlima/Sistema-Venda/blob/main/assets/usuario.png)
 
+# Tecnologias utilizadas
 
+## Back end
+
+Python
+PySide6
+MySql
+
+## Implantação em produção
+
+- Financeiro, modificar modelo para mostrar gráfico e valor total, e integrar a pesquisa.
+- Botões de menu, integrar funcionalidade ao click, Fazer Logout.
+- Fazer função para, se supervisor estiver utilizando sistema, não pedir senha para deletar vendas.
+- Função estoquista, pode somente adicionar produtos.
+- Formatar datas.
+
+Aceito melhorias em meu projeto.
+
+# Autor
+Victor Lima
+https://www.linkedin.com/in/victor-henrique-301802181/
